@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.suo
+*.user
+*.exe
+*.pdb
+*.obj
+*.ipch
+*.log
+*.cache
+*.tlog
+*.ilk
+*.idb
+build/
+Debug/
+Release/
+out/
